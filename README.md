@@ -25,7 +25,7 @@
 
 And that's it.
 
-**BUT
+*BUT*
 
 You need to add new changes, or fixes 
 
@@ -70,7 +70,7 @@ commithash 'silly fix'
 
 * What happens if my branch is behind the master/qa branch?
 
-** Don't merge, do a rebase
+* Don't merge, do a rebase *
 
 ```
  git pull --rebase origin master_or_qa
